@@ -1,0 +1,10 @@
+.chart-container {
+  width: 80%;
+  margin-bottom: 50px;
+}
+
+.chart-title {
+  font-weight: 500;
+  font-size: 1.2em;
+  text-align: center;
+}
